@@ -61,3 +61,8 @@ metin kullanın — kısa metinlerde model çok az seçeneğe sahip olur ve
 ## Lisans
 
 MIT
+
+
+---
+
+> Made in [discord.gg/codeshare](https://discord.gg/codeshare) · [astra-dev.com.tr](https://astra-dev.com.tr)
